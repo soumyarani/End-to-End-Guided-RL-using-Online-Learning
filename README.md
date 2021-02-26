@@ -13,7 +13,7 @@ a)Control of Cartpole with Augmented Random Search(a Model Free RL):
 b)Control of Cartpole with Augmented Random Search + Online Learning MPC
 Pole balances forever, online Learning guides the Augmented Random Search (RL policy)
 <p align="center">
-   <img width="200" height="180" src="https://github.com/soumyarani/End-to-End-Guided-RL-using-Online-Learning/blob/main/media/ars_ol.gif">
+   <img width="300" height="180" src="https://github.com/soumyarani/End-to-End-Guided-RL-using-Online-Learning/blob/main/media/ars_ol.gif">
 </p>
            
          
